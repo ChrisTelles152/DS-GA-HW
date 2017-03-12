@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS-SF-30](https://github.com/ga-students/DS-SF-30)
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) [DS-SF-30](https://github.com/ga-students/DS-SF-33)
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (12/6/16 - 2/21/17)
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (03/13/17 - 05/17/17)
 
 ## Schedule
 
@@ -29,20 +29,20 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Your Team
 
-**Lead Instructor:** [Ivan Corneillet](mailto:ivan@paspeur.com)
+**Lead Instructor:** [Bethany Baker](mailto:bakerbethanymarie@gmail.com)
 
-**Associate Instructor:** [Megan O'Rorke](mailto:megororke@gmail.com)
+**Associate Instructor:** [Mars Williams](mailto:metaphor.formation@gmail.com)
 
 **Course Producer:** [Matt Jones](mailto:studentservicesSF@ga.co)
 
 ## Office Hours
 
-- Megan: Tuesdays and Thursdays, 5:15-6:15 PM at the GA campus
-- Ivan: On demand/per request; usually just before or after class and online (e.g., Slack)
+- Bethany: Saturdays, 10am-12pm at the GA campus
+- Mars: Wednesdays, at the GA campus
 
 ## Slack
 
-You've all been invited to use [Slack](https://ds-sf-30.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students.  Megan will be on Slack during class and office hours to handle questions.
+You've all been invited to use [Slack](https://ds-sf-33.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students.  Megan will be on Slack during class and office hours to handle questions.
 
 ## Unit Projects
 
@@ -62,4 +62,4 @@ You've all been invited to use [Slack](https://ds-sf-30.slack.com) for chat duri
 
 ## Exit Tickets
 
-[Fill me out at the end of each class!](http://tiny.cc/ds-sf-30)
+[Fill me out at the end of each class!]()
