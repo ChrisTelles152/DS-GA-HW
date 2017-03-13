@@ -6,8 +6,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 | Class | Date | Topic | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---:|:---|:---|:---|
-| [01](./classes/01) | 03/13 | [What is Data Science](./classes/01) | | |
-| [02](./classes/02) | 03/15 | [The _pandas_ Library](./classes/02) | | |
+| [01](./classes/01) | 03/13 | [What is Data Science](http://slides.com/bethanymsimmons/deck-1?token=Gp4h8zav) | | |
+| [02]() | 03/15 | [The _pandas_ Library]() | | |
 | [03](./classes/03) | 03/20 | [Databases, Scrapping, and APIs](./classes/03) | | |
 | [04](./classes/04) | 03/22 | [Exploratory Data Analysis](./classes/04) | | |
 | [05](./classes/05) | 03/27 | [k-Nearest Neighbors](./classes/05) | **[Unit Project 1](./unit-project/1)** | |
@@ -48,7 +48,7 @@ You've all been invited to use [Slack](https://ds-sf-33.slack.com) for chat duri
 
 | Unit Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| [1](./unit-project/1) | [Research Design](./unit-project/1) | Create a problem statement, analysis plan, and data dictionary | 03/27 | 04/03 |
+| [1](./unit-project/1) | [Research Design](./unit-project/1) | Create a problem statement, analysis plan, and data dictionary | 03/27 | 03/29 |
 | [2](./unit-project/2) | [Exploratory Data Analysis](./unit-project/2) | Perform exploratory data analysis using visualizations and statistical analysis | 04/10 | 04/17 |
 | [3](./unit-project/3) | [Machine Learning Modeling](./unit-project/3) | Transform variables, perform logistic regressions, and predict class probabilities | 04/26 | 05/03 |
 
