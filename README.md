@@ -25,7 +25,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 17 | 05/08 | Applied Machine Learning Modeling, Part 2 | | |
 | [18](./classes/18) | 05/10 | [Natural Language Processing](./classes/18) | | |
 | [19](./classes/19) | 05/15 | [Time Series](./classes/19) | | |
-| [20](./classes/20) | 05/07 | [Final Project Presentations and Wrap-Up](./classes/20) | **[Final Project 3](./final-project/3)** | **[Final Project 3](./final-project/3)** |
+| [20](./classes/20) | 05/17 | [Final Project Presentations and Wrap-Up](./classes/20) | **[Final Project 3](./final-project/3)** | **[Final Project 3](./final-project/3)** |
 
 ## Your Team
 
@@ -48,17 +48,17 @@ You've all been invited to use [Slack](https://ds-sf-33.slack.com) for chat duri
 
 | Unit Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| [1](./unit-project/1) | [Research Design](./unit-project/1) | Create a problem statement, analysis plan, and data dictionary | 12/20 | 1/3 |
-| [2](./unit-project/2) | [Exploratory Data Analysis](./unit-project/2) | Perform exploratory data analysis using visualizations and statistical analysis | 1/12 | 1/19 |
-| [3](./unit-project/3) | [Machine Learning Modeling](./unit-project/3) | Transform variables, perform logistic regressions, and predict class probabilities | 1/31 | 2/7 |
+| [1](./unit-project/1) | [Research Design](./unit-project/1) | Create a problem statement, analysis plan, and data dictionary | 03/27 | 04/03 |
+| [2](./unit-project/2) | [Exploratory Data Analysis](./unit-project/2) | Perform exploratory data analysis using visualizations and statistical analysis | 04/10 | 04/17 |
+| [3](./unit-project/3) | [Machine Learning Modeling](./unit-project/3) | Transform variables, perform logistic regressions, and predict class probabilities | 04/26 | 05/03 |
 
 ## Final Project
 
 | Final Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| [1](./final-project/1) | [Lightning Pitch](./final-project/1) | Prepare a one-minute lightning talk that covers 3 potential project topics | 1/10 | 1/17 |
-| [2](./final-project/2) | [Experimental Write-Up and Exploratory Data Analysis](./final-project/2) | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics; confirm your data and create an exploratory data analysis notebook with statistical analysis and visualization | 1/26 | 2/2 |
-| [3](./final-project/3) | [Notebook and Final Presentation](./final-project/3) | Detailed technical Jupyter notebook with a summary of your statistical analysis, model, and evaluation metrics; detailed presentation deck that relates your data, model, findings, and recommandations to a non-technical audience | 2/21 | 2/21 |
+| [1](./final-project/1) | [Lightning Pitch](./final-project/1) | Prepare a one-minute lightning talk that covers 3 potential project topics | 04/05 | 04/12 |
+| [2](./final-project/2) | [Experimental Write-Up and Exploratory Data Analysis](./final-project/2) | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics; confirm your data and create an exploratory data analysis notebook with statistical analysis and visualization | 04/24 | 05/01 |
+| [3](./final-project/3) | [Notebook and Final Presentation](./final-project/3) | Detailed technical Jupyter notebook with a summary of your statistical analysis, model, and evaluation metrics; detailed presentation deck that relates your data, model, findings, and recommandations to a non-technical audience | 05/17 | 05/17 |
 
 ## Exit Tickets
 
