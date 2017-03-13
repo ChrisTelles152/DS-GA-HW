@@ -4,28 +4,28 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Schedule
 
-| Class | Date | Slides | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
-|:---:|:---:|:---|:---|:---|
-| 01 | 03/13 | [What is Data Science](http://slides.com/bethanymsimmons/deck-1?token=Gp4h8zav) | | |
-| 02 | 03/15 | The _pandas_ Library | | |
-| 03 | 03/20 | Databases, Scrapping, and APIs | | |
-| 04 | 03/22 | Exploratory Data Analysis| | |
-| 05| 03/27 | k-Nearest Neighbors | **Unit Project 1** | |
-| 06 | 03/29 | Applied Data Wrangling and Exploratory Data Analysis | | **Unit Project 1** |
-| 07 | 04/03 | Linear Regression | | |
-| 08 | 04/05 | Linear Regression, Part 2 | **Final Project 1** | |
-| 09 | 04/10 | Linear Regression, Part 3 | **Unit Project 2** | |
-| 10 | 04/12 | Regularization | | **Final Project 1** |
-| 11 | 04/17 | Logistic Regression | | **Unit Project 2** |
-| 12 | 04/19 | Applied Machine Learning Modeling | | |
-| 13 | 04/24 | Advanced Metrics | **Final Project 2** | |
-| 14| 04/26 | Clustering | **Unit Project 3** | |
-| 15 | 05/01 | Intermediate Project Presentations | | **Final Project 2** |
-| 16 | 05/03 | Trees | | **Unit Project 3** |
-| 17 | 05/08 | Applied Machine Learning Modeling, Part 2 | | |
-| 18 | 05/10 | Natural Language Processing | | |
-| 19 | 05/15 | Time Series | | |
-| 20 | 05/17 | Final Project Presentations and Wrap-Up | **Final Project 3** | **Final Project 3** |
+| Week | Class | Date | Slides | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
+|:---:|:---:|:---|:---|:---|:---|
+| 01 | 01 | 03/13 | [What is Data Science](http://slides.com/bethanymsimmons/deck-1?token=Gp4h8zav) | | |
+| 01 | 02 | 03/15 | The _pandas_ Library | | |
+| 02 | 03 | 03/20 | Databases, Scrapping, and APIs | | |
+| 02 | 04 | 03/22 | Exploratory Data Analysis| | |
+| 03 | 05| 03/27 | k-Nearest Neighbors | **Unit Project 1** | |
+| 03 | 06 | 03/29 | Applied Data Wrangling and Exploratory Data Analysis | | **Unit Project 1** |
+| 04 | 07 | 04/03 | Linear Regression | | |
+| 04 | 08 | 04/05 | Linear Regression, Part 2 | **Final Project 1** | |
+| 05 | 09 | 04/10 | Linear Regression, Part 3 | **Unit Project 2** | |
+| 05 | 10 | 04/12 | Regularization | | **Final Project 1** |
+| 06| 11 | 04/17 | Logistic Regression | | **Unit Project 2** |
+| 06 | 12 | 04/19 | Applied Machine Learning Modeling | | |
+| 07 | 13 | 04/24 | Advanced Metrics | **Final Project 2** | |
+| 07 | 14| 04/26 | Clustering | **Unit Project 3** | |
+| 08 | 15 | 05/01 | Intermediate Project Presentations | | **Final Project 2** |
+| 08 | 16 | 05/03 | Trees | | **Unit Project 3** |
+| 09 | 17 | 05/08 | Applied Machine Learning Modeling, Part 2 | | |
+| 09 | 18 | 05/10 | Natural Language Processing | | |
+| 10 | 19 | 05/15 | Time Series | | |
+| 10 | 20 | 05/17 | Final Project Presentations and Wrap-Up | **Final Project 3** | **Final Project 3** |
 
 ## Your Team
 
