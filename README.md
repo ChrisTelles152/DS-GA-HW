@@ -10,18 +10,18 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 01 | Wed | 03/15 | The _pandas_ Library | | |
 | 02 | Mon | 03/20 | Databases, Scrapping, and APIs | | |
 | 02 | Wed | 03/22 | Exploratory Data Analysis| | |
-| 03 | Mon| 03/27 | k-Nearest Neighbors | **Unit Project 1** | |
-| 03 | Wed | 03/29 | Applied Data Wrangling and Exploratory Data Analysis | | **Unit Project 1** |
+| 03 | Mon| 03/27 | k-Nearest Neighbors | | |
+| 03 | Wed | 03/29 | Applied Data Wrangling and Exploratory Data Analysis | |  |
 | 04 | Mon | 04/03 | Linear Regression | | |
-| 04 | Wed | 04/05 | Linear Regression, Part 2 | **Final Project 1** | |
-| 05 | Mon | 04/10 | Linear Regression, Part 3 | **Unit Project 2** | |
-| 05 | Wed | 04/12 | Regularization | | **Final Project 1** |
-| 06 | Mon | 04/17 | Logistic Regression | | **Unit Project 2** |
+| 04 | Wed | 04/05 | Linear Regression, Part 2 | | |
+| 05 | Mon | 04/10 | Linear Regression, Part 3 | | |
+| 05 | Wed | 04/12 | Regularization | |  |
+| 06 | Mon | 04/17 | Logistic Regression | |  |
 | 06 | Wed | 04/19 | Applied Machine Learning Modeling | | |
-| 07 | Mon | 04/24 | Advanced Metrics | **Final Project 2** | |
-| 07 | Wed| 04/26 | Clustering | **Unit Project 3** | |
-| 08 | Mon | 05/01 | Intermediate Project Presentations | | **Final Project 2** |
-| 08 | Wed | 05/03 | Trees | | **Unit Project 3** |
+| 07 | Mon | 04/24 | Advanced Metrics | | |
+| 07 | Wed| 04/26 | Clustering | | |
+| 08 | Mon | 05/01 | Intermediate Project Presentations | | |
+| 08 | Wed | 05/03 | Trees | | |
 | 09 | Mon | 05/08 | Applied Machine Learning Modeling, Part 2 | | |
 | 09 | Wed | 05/10 | Natural Language Processing | | |
 | 10 | Mon | 05/15 | Time Series | | |
