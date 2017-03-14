@@ -11,7 +11,7 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 ## Project Directory
 
 1. **[Unit Projects](./unit-projects/readme.md)**
-  - [Project 1](./unit-projects/project-1/readme.md)
+  - [Project 1](./unit-projects/project-1/README.md)
   - [Project 2](./unit-projects/project-2/readme.md)
   - [Project 3](./unit-projects/project-3/readme.md)
   - [Project 4](./unit-projects/project-4/readme.md)
@@ -29,7 +29,7 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 
 | Unit | Project | Assigned | Deadline |
 | --- | --- | :---: | --- |
-| **Unit 1** | [Project 1](./unit-projects/project-1/readme.md) | [Assigned Lesson 1](../lessons/lesson-01/readme.md) | [Due Lesson 3](../lessons/lesson-03/readme.md) |
+| **Unit 1** | [Project 1](./unit-projects/project-1/README.md) | [Assigned Lesson 1](../lessons/lesson-01/readme.md) | [Due Lesson 3](../lessons/lesson-03/readme.md) |
 | **Unit 1** | [Project 2](./unit-projects/project-2/readme.md) | [Assigned Lesson 3](../lessons/lesson-03/readme.md) | [Due Lesson 5](../lessons/lesson-05/readme.md) |
 | **Unit 2** | [Final Project, pt 1](./final-projects/01-lightning-talk/readme.md) | [Assigned Lesson 1](../lessons/lesson-01/readme.md) | [Due Lesson 8](../lessons/lesson-08/readme.md) |
 | **Unit 2** | [Project 3](./unit-projects/project-3/readme.md) | [Assigned Lesson 5](../lessons/lesson-05/readme.md) | [Due Lesson 10](../lessons/lesson-10/readme.md) |
