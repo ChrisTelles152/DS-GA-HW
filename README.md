@@ -48,17 +48,17 @@ You've all been invited to use [Slack](https://ds-sf-33.slack.com) for chat duri
 
 | Unit Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| 1 | Research Design | Create a problem statement, analysis plan, and data dictionary | 03/27 | 03/29 |
-| 2 | Exploratory Data Analysis | Perform exploratory data analysis using visualizations and statistical analysis | 04/10 | 04/17 |
-| 3 | Machine Learning Modeling | Transform variables, perform logistic regressions, and predict class probabilities | 04/26 | 05/03 |
+| 1 | Research Design | Create a problem statement, analysis plan, and data dictionary | | |
+| 2 | Exploratory Data Analysis | Perform exploratory data analysis using visualizations and statistical analysis | | |
+| 3 | Machine Learning Modeling | Transform variables, perform logistic regressions, and predict class probabilities | | |
 
 ## Final Project
 
 | Final Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| 1 | Lightning Pitch | Prepare a one-minute lightning talk that covers 3 potential project topics | 04/05 | 04/12 |
-| 2 | Experimental Write-Up and Exploratory Data Analysis | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics; confirm your data and create an exploratory data analysis notebook with statistical analysis and visualization | 04/24 | 05/01 |
-| 3 | Notebook and Final Presentation | Detailed technical Jupyter notebook with a summary of your statistical analysis, model, and evaluation metrics; detailed presentation deck that relates your data, model, findings, and recommandations to a non-technical audience | 05/17 | 05/17 |
+| 1 | Lightning Pitch | Prepare a one-minute lightning talk that covers 3 potential project topics | | |
+| 2 | Experimental Write-Up and Exploratory Data Analysis | Create an outline of your research design approach, including hypothesis, assumptions, goals, and success metrics; confirm your data and create an exploratory data analysis notebook with statistical analysis and visualization | | |
+| 3 | Notebook and Final Presentation | Detailed technical Jupyter notebook with a summary of your statistical analysis, model, and evaluation metrics; detailed presentation deck that relates your data, model, findings, and recommandations to a non-technical audience | | |
 
 ## Exit Tickets
 
