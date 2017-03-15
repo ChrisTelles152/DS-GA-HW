@@ -7,10 +7,10 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Week | Class | Date | Slides | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---:|:---|:---|:---|:---|
 | 01 | Mon | 03/13 | [What is Data Science](http://slides.com/bethanymsimmons/deck-1?token=Gp4h8zav) | | |
-| 01 | Wed | 03/15 | The _pandas_ Library | | |
+| 01 | Wed | 03/15 | Experimental Design and Pandas | | |
 | 02 | Mon | 03/20 | Databases, Scrapping, and APIs | | |
 | 02 | Wed | 03/22 | Exploratory Data Analysis| | |
-| 03 | Mon| 03/27 | k-Nearest Neighbors | | |
+| 03 | Mon | 03/27 | k-Nearest Neighbors | | |
 | 03 | Wed | 03/29 | Applied Data Wrangling and Exploratory Data Analysis | |  |
 | 04 | Mon | 04/03 | Linear Regression | | |
 | 04 | Wed | 04/05 | Linear Regression, Part 2 | | |
@@ -19,13 +19,13 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 06 | Mon | 04/17 | Logistic Regression | |  |
 | 06 | Wed | 04/19 | Applied Machine Learning Modeling | | |
 | 07 | Mon | 04/24 | Advanced Metrics | | |
-| 07 | Wed| 04/26 | Clustering | | |
+| 07 | Wed | 04/26 | Clustering | | |
 | 08 | Mon | 05/01 | Intermediate Project Presentations | | |
 | 08 | Wed | 05/03 | Trees | | |
 | 09 | Mon | 05/08 | Applied Machine Learning Modeling, Part 2 | | |
 | 09 | Wed | 05/10 | Natural Language Processing | | |
 | 10 | Mon | 05/15 | Time Series | | |
-| 10 | Wed | 05/17 | Final Project Presentations and Wrap-Up | **Final Project 3** | **Final Project 3** |
+| 10 | Wed | 05/17 | Final Project Presentations and Wrap-Up | | |
 
 ## Your Team
 
