@@ -42,7 +42,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Slack
 
-You've all been invited to use [Slack](https://ds-sf-33.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students.  Mars will be on Slack during class and office hours to handle questions.
+You've all been invited to use [Slack](https://dat-sf-33.slack.com) for chat during class and the day.  Please consider this the primary way to contact other students.  Mars will be on Slack during class and office hours to handle questions.
 
 ## Unit Projects
 
