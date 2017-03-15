@@ -38,7 +38,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 ## Office Hours
 
 - Bethany: Saturdays, 10am-12pm at the GA campus
-- Mars: Wednesdays, at the GA campus
+- Mars: Wednesdays, 3 - 6:30pm at the GA campus or by appointment
 
 ## Slack
 
