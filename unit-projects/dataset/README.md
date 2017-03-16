@@ -1,4 +1,4 @@
-# DS-SF-30 | Dataset for the Unit Project, Parts 1-4
+# DS-SF-33 | Dataset for the Unit Project, Parts 1-4
 
 We'll be using the UCLA's Logit Regression in R tutorial to explore logistic regression in Python.  Our goal will be to identify the various factors that may influence admission into graduate school.
 
