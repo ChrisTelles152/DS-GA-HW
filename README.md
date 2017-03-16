@@ -48,7 +48,7 @@ You've all been invited to use [Slack](https://dat-sf-33.slack.com) for chat dur
 
 | Unit Project | Description | Objective | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---|:---|:---:|:---:|
-| 1 | Research Design | Create a problem statement, analysis plan, and data dictionary | | |
+| 1 | Research Design | Create a problem statement, analysis plan, and data dictionary | 03/20 | 03/22 |
 | 2 | Exploratory Data Analysis | Perform exploratory data analysis using visualizations and statistical analysis | | |
 | 3 | Machine Learning Modeling | Transform variables, perform logistic regressions, and predict class probabilities | | |
 
