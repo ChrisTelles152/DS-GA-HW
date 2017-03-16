@@ -7,7 +7,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | Week | Class | Date | Slides | Soft Deadline | Hard Deadline<br/>(by 6:30 PM) |
 |:---:|:---:|:---|:---|:---|:---|
 | 01 | Mon | 03/13 | [What is Data Science](http://slides.com/bethanymsimmons/deck-1?token=Gp4h8zav) | | |
-| 01 | Wed | 03/15 | Experimental Design and pandas | | |
+| 01 | Wed | 03/15 | [Experimental Design and pandas](http://slides.com/bethanymsimmons/deck-2?token=DBVn_46f) | | |
 | 02 | Mon | 03/20 | Databases, Scrapping, and APIs | | |
 | 02 | Wed | 03/22 | Exploratory Data Analysis| | |
 | 03 | Mon | 03/27 | k-Nearest Neighbors | | |
