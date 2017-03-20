@@ -215,13 +215,10 @@ The correlation is a quantity measuring the extent of interdependence of variabl
 **Check:**
 
 1. What is the difference between bias and variance?
->	- A: see graphic above
 
 2. What is a commonly used metric that describes variance?
->	- A: "STD"
 
 3. What is the formula for this metric?
->	- A: square root of variance
 
 #### Context
 On many projects, descriptive statistics will be the first - and often times only - step for analysis. Say you need to understand the demographics of your customer base: descriptive stats will give you the answer. You don't necessarily need a fancy model to answer many common business questions.
@@ -248,8 +245,6 @@ Kurtosis is a measure of whether the data are peaked or flat relative to a norma
 
 <a name="guidedpractice2"></a>
 ## Guided Practice: Is this skewed? (10 mins)
-
-> Instructor Note: Walk through images of normal, skewed, sigmoid (etc) distributions. Stand up and vote on the types. After each image, discuss methods of correcting the issue. Use your own work or review [the sample images from the asset folder](./assets/images/).
 
 For example:
 
@@ -316,19 +311,7 @@ We can do this in pandas with the "get_dummies" method. Let's check it out in pr
 
 It's important to understand the concept before we use `get_dummies` so today we'll create dummy variables by hand. In future classes, we'll use `get_dummies` to create these.  In fact, we'll be using dummy variables in almost every analysis you complete because it is very rare to have continuous variables.
 
-> Instructor Note: Have each student draw a table (like we did above) on the white board or table.
-
 Create dummy variables for the variable "colors" that has 6 categories: blue, red, green, purple, grey, brown. Set grey as the reference. 
-
-> Answer:
-	| color_blue | color_red | color_green | color_purple | color_brown
---- | --- | --- | --- | --- | ---
-blue | 1 | 0 | 0 | 0 | 0
-red  | 0 | 1 | 0 | 0 | 0
-green | 0 | 0 | 1 | 0 | 0
-purple | 0 | 0 | 0 | 1 | 0
-grey | 0 | 0 | 0 | 0 | 0
-brown | 0 | 0 | 0 | 0 | 1
 
 
 <a name="conclusion"></a>
@@ -340,7 +323,7 @@ brown | 0 | 0 | 0 | 0 | 1
 <a name="wrapup"></a>
 ## Project questions and Next Project (15 mins)
 
-> - Review [Project 1](../../projects/unit-projects/project-1/readme.md)
+> - Review [Project 1](../../unit-projects/1/README.md)
 > - Introduce the next project
 > - Exit tickets
 
@@ -349,7 +332,7 @@ brown | 0 | 0 | 0 | 0 | 1
 ### BEFORE NEXT CLASS
 |   |   |
 |---|---|
-| **PROJECT 2** | [Unit Project 2](../../projects/unit-projects/project-2/readme.md)   |
+| **PROJECT 2** | [Unit Project 2]  |
 
 ### ADDITIONAL RESOURCES
 - [Fundamental Statistics](https://sites.google.com/site/fundamentalstatistics/chapter1)
