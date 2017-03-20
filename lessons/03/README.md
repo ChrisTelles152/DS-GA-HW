@@ -116,12 +116,6 @@ A.  For the following groups of numbers, calculate the mean, median and mode by 
 			Max _______
 			Min _______
 
-		> Answers:
-			Mean = 20.875
-			Median = 19.5
-			Mode = 18, 24
-			Max = 29
-			Min = 16
 
 		2. 75, 87, 49, 68, 75, 84, 98, 92			
 			Mean_______
@@ -130,12 +124,6 @@ A.  For the following groups of numbers, calculate the mean, median and mode by 
 			Max _______
 			Min _______
 
-		> Answers:
-			Mean = 78.5
-			Median = 79.5
-			Mode = 75
-			Max = 98
-			Min = 49
 
 		3. 55, 47, 38, 66, 56, 64, 44, 39		
 			Mean_______
@@ -144,12 +132,6 @@ A.  For the following groups of numbers, calculate the mean, median and mode by 
 			Max _______
 			Min _______
 
-		> Answers:
-			Mean = 51.125
-			Median = 51
-			Mode = none
-			Max = 66
-			Min = 38
 
 
 <a name="#codealong1"></a>
