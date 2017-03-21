@@ -9,8 +9,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | 01 | Mon | 03/13 | [What is Data Science](http://slides.com/bethanymsimmons/deck-1?token=Gp4h8zav) | | |
 | 01 | Wed | 03/15 | [Experimental Design and pandas](http://slides.com/bethanymsimmons/deck-2?token=DBVn_46f) | | |
 | 02 | Mon | 03/20 | Statistics Fundamentals, Part 1 | | |
-| 02 | Wed | 03/22 | Statistics Fundamentals, Part 2 | |**unit project 1**|
-| 03 | Mon | 03/27 | k-Nearest Neighbors | | |
+| 02 | Wed | 03/22 | Statistics Fundamentals, Part 2 | | |
+| 03 | Mon | 03/27 | k-Nearest Neighbors | **unit project 1** | |
 | 03 | Wed | 03/29 | Applied Data Wrangling and Exploratory Data Analysis | |  |
 | 04 | Mon | 04/03 | Linear Regression | | |
 | 04 | Wed | 04/05 | Linear Regression, Part 2 | | |
