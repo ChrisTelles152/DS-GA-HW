@@ -62,4 +62,4 @@ Check out the [sample notebook](./notebooks/unit-project-1-sample.ipynb), which 
 
 ## EVALUATION
 
-The rubric is available [here](https://docs.google.com/spreadsheets/d/1951W6xay6s2VaWXskqPClz799D3fsO_AHzXaNOHaE00/edit#gid=0).
+The rubric is available [here](https://docs.google.com/spreadsheets/d/1HpGK0obOUyHib8W-a22Av-8gQlWIlIzEyksTj6MlpXc/edit#gid=0).
